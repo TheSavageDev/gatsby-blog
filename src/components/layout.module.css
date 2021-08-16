@@ -14,10 +14,17 @@
   padding-left: 0;
 }
 
-.nav-link-item {
+.nav-links li {
   padding-right: 2rem;
 }
 
-.nav-link-text {
+.nav-links a {
   color: black;
+}
+
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 3rem 0;
 }
